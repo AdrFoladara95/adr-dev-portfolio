@@ -893,7 +893,7 @@ export default function App() {
           <div className="footer-main">
             <div className="footer-brand">
               <a className="brand" href="#home">
-                ADR<span>.</span>dev
+                ADR<span className="brand-dot">.</span><span className="brand-dev">dev</span>
               </a>
 
               <p>

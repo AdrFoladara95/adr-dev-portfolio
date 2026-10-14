@@ -48,6 +48,14 @@
   font-weight: 800;
   letter-spacing: -1.6px;
 }
+.brand-dot{
+  color: var(--accent);
+}
+
+.brand-dev{
+  color: var(--accent);
+  font-size: 0.65em;
+}
 .brand span {
   color: var(--accent);
 }

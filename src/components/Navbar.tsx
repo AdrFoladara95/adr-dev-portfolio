@@ -53,7 +53,7 @@ export default function Navbar() {
           onClick={close}
           aria-label="ADR.dev home"
         >
-          ADR<span>.</span>dev
+          ADR<span className='brand-dot'>.</span><span className='brand-dev'>dev</span>
         </a>
 
         <div
